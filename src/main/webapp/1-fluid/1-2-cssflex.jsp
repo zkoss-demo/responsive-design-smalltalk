@@ -4,7 +4,7 @@
 		<title>CSS Flexing</title>
 		<link rel="stylesheet" href="${pageContext.request.contextPath}/resources/style/smalltalkstyle.css">
 		<style>
-			.container{
+			.panel{
 				height:80px;
 				width:100%;
 				display:flex;
