@@ -21,5 +21,4 @@
 				<div style="flex:0;" width="200px" class="box content1 itemflex">MenuItem 3</div>
 			</div>
 	</body>
-
 </html>
