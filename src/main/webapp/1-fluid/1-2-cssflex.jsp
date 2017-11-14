@@ -16,9 +16,9 @@
 		<div id="page" class="box background">
 			<div>Page</div>
 			<div style="flex-direction:row" class="box panel">
-				<div style="flex:2;" width="200px" class="box content1 itemflex">MenuItem 1</div>
-				<div style="flex:1;" width="200px" class="box content2 itemflex">MenuItem 2</div>
-				<div style="flex:0;" width="200px" class="box content1 itemflex">MenuItem 3</div>
+				<div style="flex:2;" class="box content1 itemflex">MenuItem 1</div>
+				<div style="flex:1;" class="box content2 itemflex">MenuItem 2</div>
+				<div style="flex:0;" class="box content1 itemflex">MenuItem 3</div>
 			</div>
 	</body>
 </html>
