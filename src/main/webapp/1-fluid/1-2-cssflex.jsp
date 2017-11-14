@@ -20,5 +20,6 @@
 				<div style="flex:1;" class="box content2 itemflex">MenuItem 2</div>
 				<div style="flex:0;" class="box content1 itemflex">MenuItem 3</div>
 			</div>
+		</div>
 	</body>
 </html>
